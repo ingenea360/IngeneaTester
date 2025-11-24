@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Senel%20Marulanda-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:senel.marulanda@gmail.com">
-      <img src="https://img.shields.io/badge/Email-senel.marualanda%40gmail.com-lightgrey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+      <img src="https://img.shields.io/badge/Email-senel.marulanda%40gmail.com-lightgrey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=senelmarulanda&color=blue" alt="Profile views"/>
