@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/senelmarulanda/">
       <img src="https://img.shields.io/badge/LinkedIn-Senel%20Marulanda-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:senel.marualanda@gmail.com">
+    <a href="mailto:senel.marulanda@gmail.com">
       <img src="https://img.shields.io/badge/Email-senel.marualanda%40gmail.com-lightgrey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
